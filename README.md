@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=XuanMingZHY" alt="XuanMingZHY" /></a> </p>
 
-- 🔭 I’m currently working on **ZZZcalculator, flavorDash**
+- 🔭 I’m currently working on **GOLANG Project**
 
 - 🌱 I’m currently learning **React, C# and Go.**
 
