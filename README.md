@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **GOLANG Project**
 
-- 🌱 I’m currently learning **React, C# and Go.**
+- 🌱 I’m currently learning **React and Go.**
 
 - 👯 I’m looking to collaborate on: **(Secret, will coming soon)**
 
